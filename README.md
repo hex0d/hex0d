@@ -8,11 +8,14 @@
   <a href="https://hxdlabs.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00FF00" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/hxd" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-reis-hex0d" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/hxd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF00" alt="Twitter" />
+  <a href="mailto:leonardomfreis@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" />
+  </a>
+  <a href="https://wa.me/5541988991197" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF00" alt="WhatsApp" />
   </a>
 </p>
 
