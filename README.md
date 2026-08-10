@@ -24,9 +24,9 @@
 ### `> ./skills.sh`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sentinel-000000?style=for-the-badge&logo=microsoft&logoColor=00FF00" alt="Sentinel" />
+  <img src="https://img.shields.io/badge/Sentinel-000000?style=for-the-badge&logo=microsoftazure&logoColor=00FF00" alt="Sentinel" />
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00FF00" alt="Splunk" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00FF00" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00FF00" alt="AWS" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" alt="Python" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF00" alt="Docker" />
   <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00FF00" alt="OpenAI" />
