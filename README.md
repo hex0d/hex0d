@@ -34,8 +34,7 @@
 ### `> ./stats.sh`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hex0d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" alt="hex0d's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hex0d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hex0d&theme=tokyonight&hide_border=true" alt="hex0d's GitHub Streak" />
 </p>
 
 ---
