@@ -14,9 +14,6 @@
   <a href="mailto:leonardomfreis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" />
   </a>
-  <a href="https://wa.me/5541988991197" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF00" alt="WhatsApp" />
-  </a>
 </p>
 
 ---
