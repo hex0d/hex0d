@@ -31,14 +31,6 @@
 
 ---
 
-### `> ./stats.sh`
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hex0d&theme=tokyonight&hide_border=true" alt="hex0d's GitHub Streak" />
-</p>
-
----
-
 ### `> ./system_status.sh`
 
 <p align="center">
@@ -47,4 +39,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hex0d/hex0d/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hex0d/hex0d/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+---
+
+### `> ./stats.sh`
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hex0d&theme=tokyonight&hide_border=true" alt="hex0d's GitHub Streak" />
 </p>
